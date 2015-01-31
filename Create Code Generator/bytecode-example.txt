@@ -1,0 +1,5 @@
+STR
+FUL
+DRD _MX1 _MX2 _MX1 _MX2
+WAT 20
+DRD _NUL _NUL _NUL _NUL   #here is a comment
