@@ -1,5 +1,10 @@
 STR
 FUL
+SCR scr_len
+!scr_len
 DRD _MX1 _MX2 _MX1 _MX2
 WAT 20
-DRD _NUL _NUL _NUL _NUL   #here is a comment
+!oneVal
+DRD scr_len _NUL oneVal _NUL   #here is a comment
+!scr_len
+!oneVal
